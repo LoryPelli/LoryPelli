@@ -10,7 +10,7 @@ Just watch my repositories and you'll find it out
 
 <hr />
 
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; row-gap: .5rem">
     <img src="https://github-readme-stats.vercel.app/api?username=LoryPelli&theme=dark&hide_border=true&show_icons=true&count_private=true" loading="lazy" decoding="async" />
     <img src="https://streak-stats.demolab.com/?user=LoryPelli&theme=dark&hide_border=true" loading="lazy" decoding="async" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoryPelli&theme=dark&hide_border=true&layout=compact" loading="lazy" decoding="async" />
