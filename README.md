@@ -11,9 +11,9 @@ Just watch my repositories and you'll find it out
 <hr />
 
 <div style="display: flex; flex-direction: column; row-gap: .25rem">
-    <img src="https://lorypelli.dev/stats/general" loading="lazy" decoding="async" />
-    <img src="https://lorypelli.dev/stats/contributions" loading="lazy" decoding="async" />
-    <img src="https://lorypelli.dev/stats/languages" loading="lazy" decoding="async" />
+    <img src="https://stats.lorypelli.dev/general" loading="lazy" decoding="async" />
+    <img src="https://stats.lorypelli.dev/contributions" loading="lazy" decoding="async" />
+    <img src="https://stats.lorypelli.dev/languages" loading="lazy" decoding="async" />
 </div>
 
 prob it's a lot, I should touch grass ik...
