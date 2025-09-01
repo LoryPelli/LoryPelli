@@ -11,9 +11,9 @@ Just watch my repositories and you'll find it out
 <hr />
 
 <div style="display: flex; flex-direction: column; row-gap: .25rem">
-    <img src="https://github-readme-stats.vercel.app/api?username=LoryPelli&theme=dark&hide_border=true&show_icons=true&count_private=true" loading="lazy" decoding="async" />
-    <img src="https://streak-stats.demolab.com/?user=LoryPelli&theme=dark&hide_border=true" loading="lazy" decoding="async" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoryPelli&theme=dark&hide_border=true&layout=compact" loading="lazy" decoding="async" />
+    <img src="https://lorypelli.dev/stats/general" loading="lazy" decoding="async" />
+    <img src="https://lorypelli.dev/stats/contributions" loading="lazy" decoding="async" />
+    <img src="https://lorypelli.dev/stats/languages" loading="lazy" decoding="async" />
 </div>
 
 prob it's a lot, I should touch grass ik...
